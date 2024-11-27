@@ -1,0 +1,8 @@
+aiogram
+environs
+sqlalchemy
+aiosqlite
+aiohttp-socks
+requests
+pytz
+APScheduler
