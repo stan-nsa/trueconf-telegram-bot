@@ -1,4 +1,4 @@
-# https://as3025.rosneft.ru/api/v3.6/logs/messages?access_token=leFGAgwUmV40CIxrWIwVbP_IYY2Niu7pP&sort_order=0&to_call_id=Горячая%20линия%20(Сибинтек)&timezone=0&page_size=100&date_from=2024-09-13%2014:00:00
+# https://<trueconf-server>/api/v3.6/logs/messages?access_token=<token>&sort_order=0&to_call_id=<chat-name>&timezone=0&page_size=100&date_from=2024-09-13%2014:00:00
 
 import requests
 
